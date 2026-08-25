@@ -1,9 +1,6 @@
 MIT License
 
-Code: MIT License
-Character, name "AIRU / 藍瑠", visual design, and TOKENAI Nine Dragons
-lore are NOT covered by the MIT License.
-© TOKENAI LLC. All rights reserved.
+Copyright (c) 2026 TOKENAI LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------------------------------------
+SCOPE OF THIS LICENSE
+
+Code: MIT License.
+
+Character, name "AIRU / 藍瑠", visual design, and TOKENAI Nine Dragons
+lore are NOT covered by the MIT License.
+© TOKENAI LLC. All rights reserved.
+
+The MIT License above applies to the source code in this repository only.
+It grants no right to use the AIRU character, the names "AIRU" or "藍瑠",
+Airu's visual design or likeness, or any TOKENAI Nine Dragons world
+material, in any form.
+
+You may fork, modify, and redistribute this code. You may not publish a
+derivative agent under the name AIRU, or present it as a TOKENAI Nine
+Dragons entity, without written permission from TOKENAI LLC.
+
+Provenance of the canonical character material is recorded in
+`genesis.json` as SHA-256 digests. The source documents themselves are
+private and are not distributed with this repository.
+
+Contact: tsumugi@tokenaistudio.com
+---------------------------------------------------------------------------
